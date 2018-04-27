@@ -1,2 +1,2 @@
 # ExceptionNetUa
-Articles for https://exception.net.ua/
+[Articles](https://github.com/mivanchenko/ExceptionNetUa/wiki) for https://exception.net.ua/
